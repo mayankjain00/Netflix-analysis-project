@@ -1,7 +1,7 @@
 
 # Netflix-Analysis-Project
 
-Purpose of this project is to predict the Netflix dataset to predict the data Days, Month, Week, Year and show wise and many more thing 
+Purpose of this project is to predict the Netflix dataset to predict the data Days, Month, Week, Year and show personalized TV shows and Movies content and many more thing 
 
 
 
